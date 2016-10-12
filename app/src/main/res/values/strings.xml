@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Easy Train</string>
+    <string name="msg_time">Time it would take</string>
+    <string name="minutes">minutes</string>
+    <string name="line_change">line change</string>
+    <string name="path">Path</string>
+    <string name="dollar">$</string>
+    <string name="cost">Cost</string>
+
+</resources>
